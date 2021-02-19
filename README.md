@@ -1,12 +1,4 @@
-Hi, I'm @Patchouliys😊.  
-C++ programmer, and interested in cpp game engine💻.
-
-## My Repos
-uhh, I just begin to use Github. So I didn't have some Repos.  
-Maybe one day I will upload some.
-## My Website  
-Nowcoder blog: [Click here](https://blog.nowcoder.net/patchouliy "Nowcoder blog")  
-Github blog: [Click here]()
+Hi, I'm @Patchouliys😊. 
  
 
 
